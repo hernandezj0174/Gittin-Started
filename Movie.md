@@ -18,8 +18,10 @@ place: *THE SCARLET WITCH*
 
 Here's some Java code that prints the movie's title and year released:
 
-public class PrintMovieInformation { \
-    public static void main (String [] args) { \
-        System.out.println("Doctor Strange and the Multiverse of Madness - 2022"); \
-    } \
+<pre>
+public class PrintMovieInformation { 
+    public static void main (String [] args) { 
+        System.out.println("Doctor Strange and the Multiverse of Madness - 2022"); 
+    } 
 }
+</pre>
